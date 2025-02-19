@@ -1,2 +1,3 @@
 # Java
-Voltando a praticar Java, nesta pasta, estarei deixando o que estou estudando
+Voltando a praticar Javan Nesta pasta, estarei deixando o que estou praticando
+Créditos: Curso em Vídeo com prof. Gustavo Guanabara
