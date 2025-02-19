@@ -1,0 +1,5 @@
+public (+): Todas as classes podem usar um atributo
+
+private (-): Apenas a classe pode usar o atributo
+
+protected (#): Apenas a classe e suas subclasses podem usar
