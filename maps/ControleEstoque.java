@@ -9,19 +9,6 @@ public class ControleEstoque {
 
     public static void main(String[] args) {
 
-
-//        Crie um programa que:
-//
-//        Tenha um Map<String, Integer> para representar produtos e suas quantidades em estoque.
-//        Ex: "Caneta" -> 50, "Caderno" -> 30, "Lápis" -> 20.
-//        Pergunte ao usuário qual produto ele quer comprar.
-//        Pergunte a quantidade desejada.
-//        Verifique se há estoque suficiente:
-//        Se houver, subtraia a quantidade comprada do estoque e mostre mensagem de sucesso.
-//        Se não houver, avise que não há estoque suficiente.
-//        Permita que o usuário continue comprando até digitar "sair".
-//        Ao final, mostre o estoque atualizado de todos os produtos.
-
         Scanner scanner = new Scanner(System.in);
 
         Map<String, Integer> estoque = new HashMap<>();

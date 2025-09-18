@@ -1,8 +1,5 @@
 package arrays;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
 public class SistemaAlunos {
@@ -35,7 +32,6 @@ public class SistemaAlunos {
             }
             System.out.println("Aluno: " + nomeAlunos[i] + " | Nota: " + notaAlunos[i] + " | Situação: " + situacao);
         }
-
         
     }
 }
